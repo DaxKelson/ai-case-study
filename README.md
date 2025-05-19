@@ -21,7 +21,10 @@
 Pathology and diagnosis of patients is the first step in many treatment plans, and is a long and complicated process, incruing expenses and opportunities for human error for patients. PathAI provides tools to healthcare providers to streamline this process and increase the success rate of treatment plans.
 
 **Target Customers**:
-PathAI is primarily targeted at heathcare providers to provide them another tool in their diagnostic toolbox and to streamline the workflow of pathology.
+PathAI partners with major pharmaceutical companies (e.g., GSK, Merck, Bristol Myers Squibb) to use AI for identifying biomarkers, stratifying patients, and improving pathology endpoints in clinical trials. PathAI is primarily targeted at heathcare providers to provide them another tool in their diagnostic toolbox and to streamline the workflow of pathology.
+
+**Unique Value Proposition**:
+Few companies in this space are bridging both research and clinical diagnostics as effectively as PathAI.
 
 **Technologies Used**:
 AISight® Platform: A digital pathology image management system with FDA 510(k) clearance and CE Mark for primary diagnosis. 
