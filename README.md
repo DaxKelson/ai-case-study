@@ -4,80 +4,64 @@
 
 **Company Name**: PathAI
 
-**Incorporation Date**: *[Insert Date]*
+**Incorporation Date**: 2016
 
-**Founders**: *[Insert Founders' Names]*
-
+**Founders**: Andrew Beck and Aditya Khosla 
 **Origin Story**:
-> *"Insert a compelling quote or summary about how PathAI was founded."*
+> PathAI is a Boston-based company founded in 2016 by Aditya Khosla and Andrew H. Beck. It is an AI company that utilizes machine learning to assist in diagnosis via examining large numbers of "slices" of a scan of a patient and extrapolating those into a 3d model and using that information to assist care providers with better information to assist patients.
 
 **Funding Information**:
-- **Series A**: *[Insert Details]*
-- **Series B**: *[Insert Details]*
-- **Series C**: *[Insert Details]*
+- **Series A**: $11 million led by General Catalyst Partners in 2017.
+- **Series B**:  $60 million led by General Atlantic, with additional investments from Bristol-Myers Squibb and Merck’s Global Health Innovation Fund.
+- **Series C**: 165m raised in May 2021
 
 ## Business Activities
 
 **Problem Statement**:
-*Describe the specific problem PathAI aims to solve.*
+Pathology and diagnosis of patients is the first step in many treatment plans, and is a long and complicated process, incruing expenses and opportunities for human error for patients. PathAI provides tools to healthcare providers to streamline this process and increase the success rate of treatment plans.
 
 **Target Customers**:
-*Identify the intended customer base and market size.*
-
-**Unique Value Proposition**:
-*Explain what sets PathAI apart from competitors.*
+PathAI is primarily targeted at heathcare providers to provide them another tool in their diagnostic toolbox and to streamline the workflow of pathology.
 
 **Technologies Used**:
-*List and describe the technologies PathAI employs.*
+AISight® Platform: A digital pathology image management system with FDA 510(k) clearance and CE Mark for primary diagnosis. 
+AIM Algorithms: Including AIM-PD-L1 for biomarker assessment and AIM-HER2 for breast cancer diagnostics. PathExplore™: An AI-powered panel for spatial analysis of the tumor microenvironment. 
 
 ## Landscape
 
 **Industry Field**:
-*Specify the field PathAI operates in (e.g., Medical AI).*
+PathAI works primarily in the field of medical pathology and image recognition AI.
 
 **Trends and Innovations**:
-*Summarize major trends and innovations in the field over the last 5–10 years.*
+PathAI's AISight™ is a cloud-native image management system that integrates AI tools to streamline digital pathology workflows. This platform has been adopted by organizations like Quest Diagnostics and Quantum Pathology to enhance diagnostic accuracy and efficiency.
+
+
 
 **Major Competitors**:
-- *Competitor 1*
-- *Competitor 2*
-- *Competitor 3*
+- Paige
+- Ibex Medical Analytics
+- Proscia
 
 ## Results
 
 **Business Impact**:
-*Discuss the impact PathAI has had in its industry.*
+PathAI's AI model for diagnosing MASH (metabolic dysfunction-associated steatohepatitis) became the first AI diagnostic tool recommended under the EMA's Qualification Opinion framework, highlighting its commitment to regulatory excellence.
 
 **Key Performance Metrics**:
-*List core metrics used in the field and PathAI's performance.*
+In 2024, PathAI was ranked 420th on Deloitte's Technology Fast 500 list, reflecting its rapid growth and innovation in digital diagnostics and biopharma.
 
 **Competitive Performance**:
-*Compare PathAI's performance relative to its competitors.*
-
+PathAI's impressive revenue growth, technological innovations, and strategic collaborations have positioned it as a key player in the AI-driven digital pathology market. Its focus on integrating AI into pathology workflows and partnering with leading pharmaceutical companies underscores its competitive edge.
 ## Recommendations
 
 **Suggested Products/Services**:
-*Propose new offerings for PathAI.*
-
+I would reccomend greater integration with telehealth services to increase their reach to patients.
 **Justification**:
-*Explain why these additions would benefit the company.*
-
-**Technologies for Implementation**:
-*Identify technologies that would support the new offerings.*
-
-**Appropriateness of Technologies**:
-*Justify why these technologies are suitable.*
+Telehealth is becoming a larger and larger part of the American healthcare system, providing access to rural areas and to economically disadvantaged populations.
 
 ## References
 
 1. [PathAI Official Website](https://www.pathai.com)
-2. [Funding Information Source](https://www.example.com/funding)
-3. [Industry Trends Report](https://www.example.com/industry-trends)
+2. [Funding Information Source](https://www.forbes.com/companies/pathai)
+3. [Industry Trends Report]([https://www.example.com/funding](https://pitchbook.com/profiles/company/169704-46)
 
-> *"Insert a relevant quote from one of your sources to support your analysis."*
-
----
-
-**Note**: Replace all placeholder text (indicated by *[Insert...]* or italicized instructions) with your actual research findings. Ensure all hyperlinks are updated to direct to the appropriate sources you've consulted.
-
-For more detailed guidance on Markdown formatting, you can refer to GitHub's official documentation: [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
